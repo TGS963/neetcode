@@ -1,6 +1,6 @@
 # build directory
 build
-.vscode
+.vscode/
 
 #executables
 *.exe
