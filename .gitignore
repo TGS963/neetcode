@@ -1,0 +1,7 @@
+# build directory
+build
+.vscode
+
+#executables
+*.exe
+*.out
