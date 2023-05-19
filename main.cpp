@@ -224,7 +224,7 @@ int main()
 {
     Solution solution;
     vector<int> nums = {1, 2, 0, 1};
-    int ole = solution.longestConsecutive(nums);
-    cout << "Longest: " << ole << endl;
+    int sol = solution.longestConsecutive(nums);
+    cout << "Longest: " << sol << endl;
     return 0;
 }
